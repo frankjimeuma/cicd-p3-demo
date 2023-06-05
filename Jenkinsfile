@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('Imprimir Hola Mundo'){
             steps {
-                batch "python holamundo.py"
+                bat "python holamundo.py"
             }
         }
     }
