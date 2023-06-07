@@ -1,1 +1,1 @@
-print("error arreglado")
+print("NO APRENDI LA LECCION VOY DE NUEVO"
