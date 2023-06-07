@@ -1,1 +1,1 @@
-print("hola mundo from new-text!")
+print("INYECTANDO ERROR"
